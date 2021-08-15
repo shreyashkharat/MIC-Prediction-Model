@@ -1,3 +1,4 @@
+# Required packages for the code: ggplot2, dummies.
 pop_data <- read.csv("/home/shreyashkharat/Datasets/insurance.csv", header = TRUE)
 pop_data_fixed <- read.csv("/home/shreyashkharat/Datasets/insurance.csv", header = TRUE)
 summary(pop_data)
