@@ -1,0 +1,2 @@
+numpy, pandas, seaborn, sklearn, graphviz, IPython, pydotplus, subprocess.
+For linux users install graphviz software and package by: (sudo apt-get install graphviz) and (pip install graphviz) resp.
